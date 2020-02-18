@@ -1,0 +1,16 @@
+0.003   2019-10-27  Released-By: PERLANCAR; Urgency: medium
+
+	- [optimize] Reduce one subcall.
+
+
+0.002   2017-08-01  Released-By: PERLANCAR
+
+	- No functional changes.
+
+	- [doc] Note in example in Synopsis that effect is only local (the
+	  importing package).
+
+
+0.001    2017-06-25  Released-By: PERLANCAR
+
+         - First release.
